@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Pan Panya</string>
+  <string name="add_textbox_hint">Add a todo item</string>
+  <string name="add_button_text">Add</string>
+  <string name="mobile_services">Azure App Service</string>
+  <string name="menu_refresh">Refresh</string>
+  <string name="checkbox_text">Item Text</string>
+  <string name="login_button_text">Sign in</string>
+  <string name="path_question_text">I want to ...</string>
+  <string name="ask_text">Ask</string>
+  <string name="answer_text">Answer</string>
+  <string name="view_my_question_text">See my questions</string>
+  <string name="view_question_text">See questions</string>
+</resources>
